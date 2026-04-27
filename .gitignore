@@ -4,8 +4,6 @@ Datasets/
 # Processed/exported CSVs - too large for GitHub
 Extracted_csv/
 
-# Power BI binary file
-power_bi dashboard/
 
 # Python
 __pycache__/
