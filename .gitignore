@@ -1,0 +1,29 @@
+# Raw datasets - too large for GitHub
+Datasets/
+
+# Processed/exported CSVs - too large for GitHub
+Extracted_csv/
+
+# Power BI binary file
+power_bi dashboard/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
